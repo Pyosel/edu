@@ -1,0 +1,6 @@
+>sequence_name1
+aaattggcccttggcattgattgctgctgctgctg
+>sequence_name2
+aaattggcccttggcattgattgctgctgctgctg
+>sequence_name3
+aaatgccgttcgttc
